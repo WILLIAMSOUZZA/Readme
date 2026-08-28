@@ -39,39 +39,6 @@ Estou aprofundando meus conhecimentos em:
 * Engenharia de Software
 * Modelagem de Sistemas
 
-Meu objetivo é aplicar esses conhecimentos em **projetos acadêmicos e pessoais**, transformando teoria em prática.
-
-## 📂 Projetos
-
-### 🛠️ SGPD — Sistema de Gestão de Processos Digitais
-
-Projeto acadêmico de um sistema de **Help Desk**, desenvolvido para organizar o processo de atendimento de chamados de suporte de TI.
-
-**Principais conhecimentos aplicados:**
-
-* UML
-* BPMN
-* Engenharia de Software
-* Prototipação
-* Análise e Modelagem de Sistemas
-
-🔗 **Visualizar Projeto no Figma:** [(https://www.figma.com/make/DL6YUSWVJKq2ifTL1THi5i/Help-Desk-Prototype?p=f&fullscreen=1)]
-
-### 🐍 Projetos em Python
-
-Projetos e exercícios acadêmicos desenvolvidos para praticar **lógica de programação, algoritmos, estruturas de dados e resolução de problemas**.
-
-
-## 🎯 Objetivo Profissional
-
-Meu objetivo é continuar aprendendo, desenvolver projetos cada vez mais completos e construir uma carreira sólida em tecnologia, evoluindo profissionalmente até atuar como **Desenvolvedor Full Stack**.
-
-> 💡 **Aprender, praticar e transformar conhecimento em soluções.**
-
-## 📫 Conecte-se Comigo
-
-* 💼 **LinkedIn:** [(https://www.linkedin.com/in/william-alves-95b6a2427/)]
-
 ---
 
 ⭐ Obrigado pela visita ao meu perfil!
