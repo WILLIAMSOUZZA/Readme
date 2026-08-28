@@ -55,7 +55,7 @@ Projeto acadêmico de um sistema de **Help Desk**, desenvolvido para organizar o
 * Prototipação
 * Análise e Modelagem de Sistemas
 
-🔗 **Repositório:** [(https://www.figma.com/make/DL6YUSWVJKq2ifTL1THi5i/Help-Desk-Prototype?p=f&fullscreen=1)]
+🔗 **projeto Figma:** [(https://www.figma.com/make/DL6YUSWVJKq2ifTL1THi5i/Help-Desk-Prototype?p=f&fullscreen=1)]
 
 ### 🐍 Projetos em Python
 
