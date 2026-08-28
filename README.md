@@ -55,13 +55,12 @@ Projeto acadêmico de um sistema de **Help Desk**, desenvolvido para organizar o
 * Prototipação
 * Análise e Modelagem de Sistemas
 
-🔗 **Repositório:** [Adicionar link do projeto]
+🔗 **Repositório:** [(https://www.figma.com/make/DL6YUSWVJKq2ifTL1THi5i/Help-Desk-Prototype?p=f&fullscreen=1)]
 
 ### 🐍 Projetos em Python
 
 Projetos e exercícios acadêmicos desenvolvidos para praticar **lógica de programação, algoritmos, estruturas de dados e resolução de problemas**.
 
-🔗 **Repositório:** [(https://www.figma.com/make/DL6YUSWVJKq2ifTL1THi5i/Help-Desk-Prototype?p=f&fullscreen=1)]
 
 ## 🎯 Objetivo Profissional
 
@@ -71,7 +70,7 @@ Meu objetivo é continuar aprendendo, desenvolver projetos cada vez mais complet
 
 ## 📫 Conecte-se Comigo
 
-* 💼 **LinkedIn:** [Adicionar link do LinkedIn]
+* 💼 **LinkedIn:** [(https://www.linkedin.com/in/william-alves-95b6a2427/)]
 
 ---
 
