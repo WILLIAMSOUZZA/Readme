@@ -61,7 +61,7 @@ Projeto acadêmico de um sistema de **Help Desk**, desenvolvido para organizar o
 
 Projetos e exercícios acadêmicos desenvolvidos para praticar **lógica de programação, algoritmos, estruturas de dados e resolução de problemas**.
 
-🔗 **Repositório:** [Adicionar link do projeto]
+🔗 **Repositório:** [(https://www.figma.com/make/DL6YUSWVJKq2ifTL1THi5i/Help-Desk-Prototype?p=f&fullscreen=1)]
 
 ## 🎯 Objetivo Profissional
 
@@ -72,7 +72,6 @@ Meu objetivo é continuar aprendendo, desenvolver projetos cada vez mais complet
 ## 📫 Conecte-se Comigo
 
 * 💼 **LinkedIn:** [Adicionar link do LinkedIn]
-* 🐙 **GitHub:** [Adicionar link do GitHub]
 
 ---
 
