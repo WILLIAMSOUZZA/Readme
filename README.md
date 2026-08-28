@@ -39,6 +39,18 @@ Estou aprofundando meus conhecimentos em:
 * Engenharia de Software
 * Modelagem de Sistemas
 
+Meu objetivo é aplicar esses conhecimentos em **projetos acadêmicos e pessoais**, transformando teoria em prática
+
+## 🎯 Objetivo Profissional
+
+Meu objetivo é continuar aprendendo, desenvolver projetos cada vez mais completos e construir uma carreira sólida em tecnologia, evoluindo profissionalmente até atuar como **Desenvolvedor Full Stack**.
+
+> 💡 **Aprender, praticar e transformar conhecimento em soluções.**
+
+## 📫 Conecte-se Comigo
+
+* 💼 **LinkedIn:** [(https://www.linkedin.com/in/william-alves-95b6a2427/)]
+
 ---
 
 ⭐ Obrigado pela visita ao meu perfil!
