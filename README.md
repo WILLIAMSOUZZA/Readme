@@ -34,7 +34,7 @@ Estou aprofundando meus conhecimentos em:
 
 * Lógica de Programação
 * Algoritmos
-* Python
+* ![JavaScript]Python
 * Desenvolvimento Web
 * Engenharia de Software
 * Modelagem de Sistemas
